@@ -18,7 +18,7 @@ console.timeEnd("Loading core"); //end measuring
 
  var path = {
   dist: 'dist/',
-  img: 'images/',
+  img: 'http://projets.gregoiredierendonck.fr/oney/images/',
   templates: 'templates/',
   css: 'css/'
  }
@@ -49,7 +49,7 @@ gulp.task("html", function() {
 });
 
 /**
- * Images/SVG
+ * http://projets.gregoiredierendonck.fr/oney/images/SVG
  */
 
 // Optmize image (jpg, png)
