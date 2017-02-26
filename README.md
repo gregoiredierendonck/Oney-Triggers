@@ -1,4 +1,4 @@
-# Labo3G - Triggers email
+# Oney - Triggers email
 
 A collection of responsive trigger email for Oney
 
